@@ -1,0 +1,13 @@
+{
+  "code": "thoughtco.choosetime",
+  "name": "Choose Time",
+  "description": "Force users to choose a time before adding to the cart",
+  "version": "v1.0.0",
+  "author": "ryanmitchell",
+  "icon": {
+    "class": "fa fa-cart-plus",
+    "backgroundColor": "#111",
+    "color": "#FFF"
+  },
+  "homepage": "https://github.com/ryanmitchell/ti-ext-choosetime"
+}
