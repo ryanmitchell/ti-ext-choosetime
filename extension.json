@@ -2,7 +2,7 @@
   "code": "thoughtco.choosetime",
   "name": "Choose Time",
   "description": "Force users to choose a time before adding to the cart",
-  "version": "v1.0.0",
+  "version": "v1.0.1",
   "author": "ryanmitchell",
   "icon": {
     "class": "fa fa-cart-plus",
